@@ -11,7 +11,6 @@ Facebook group to keep in contact with us.
 Facebook Group: Georgian RPG Maker Group 
 
 -----------------------------------
----- Monday December 14th 2015 ----
------------------------------------
+Monday December 14th 2015
 
 - TBA

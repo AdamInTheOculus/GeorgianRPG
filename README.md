@@ -18,7 +18,7 @@ Project Roles
 - Lead Storymaking: Andrew Spencer
  
 -----------------------------------
-Monday December 14th 2015
+Monday, December 14th, 2015
 -----------------------------------
 - Held unofficial meeting in M building to discuss project roles.
 - Held official meeting at Maker's Lab to formalize project.

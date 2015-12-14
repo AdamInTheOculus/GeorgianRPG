@@ -12,5 +12,5 @@ Facebook Group: Georgian RPG Maker Group
 
 -----------------------------------
 Monday December 14th 2015
-
+-----------------------------------
 - TBA

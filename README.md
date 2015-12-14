@@ -21,4 +21,4 @@ Project Roles
 Monday, December 14th, 2015
 -----------------------------------
 - Held unofficial meeting in M building to discuss project roles.
-- Held official meeting at Maker's Lab to formalize project.
+- Held **official** meeting at Maker's Lab to formalize project.

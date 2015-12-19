@@ -16,15 +16,15 @@ Improve development skills
 
 ## Installation
 
-git clone https://github.com/AdamInTheOculus/GeorgianRPG.git
+`git clone https://github.com/AdamInTheOculus/GeorgianRPG.git`
 
 ## Issues
 
-Please submit issues (here)[https://github.com/AdamInTheOculus/GeorgianRPG/issues]
+Please submit issues [here](https://github.com/AdamInTheOculus/GeorgianRPG/issues)
 
 ## DOCS
 
-(Docs)[#]
+[Docs](#)
 
 ## Tests
 
@@ -35,11 +35,11 @@ Please submit issues (here)[https://github.com/AdamInTheOculus/GeorgianRPG/issue
 | Name          | Role          |
 | ------------- |:-------------:|
 | Raymond Dinkin      | Project Manager |
-| (Adam Sinclair)[https://github.com/AdamInTheOculus], Raymond Dinkin       | Lead Programmer      |
+| [Adam Sinclair](https://github.com/AdamInTheOculus), Raymond Dinkin       | Lead Programmer      |
 | Andrew Spencer  | Lead Storymaking      |
 | Shane Grove | Developer |
 | Jeremiah Hughes | Developer |
-| Mark Chipp |  Developer |
+| [Mark Chipp](https://github.com/mchipp) |  Developer |
 | Dylan Trave | Developer |
 | Andrew Spencer |  Developer |
 | George Psarakis | Developer |
@@ -50,7 +50,7 @@ Please submit issues (here)[https://github.com/AdamInTheOculus/GeorgianRPG/issue
 | Eddie Tupy |  Developer |
 | Josh Boulet|  Developer |
 | Megan Doyle | Developer |
-| (Thomas Herr)[https://github.com/tlherr] | |
+| [Thomas Herr](https://github.com/tlherr) | |
 
 Pull Requests Welcome
 

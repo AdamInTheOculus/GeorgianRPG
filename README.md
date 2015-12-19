@@ -10,9 +10,9 @@ Facebook group to keep in contact with us.
 
 Facebook Group: [Georgian RPG Maker Group](https://www.facebook.com/groups/174588899562639/)
 
-## Motivation
+## Wiki
 
-Improve development skills
+Project Meeting Details can be found [here](https://github.com/AdamInTheOculus/GeorgianRPG/wiki)
 
 ## Installation
 
@@ -22,7 +22,7 @@ Improve development skills
 
 Please submit issues [here](https://github.com/AdamInTheOculus/GeorgianRPG/issues)
 
-## DOCS
+## Documentation
 
 [Docs](#)
 
@@ -56,4 +56,4 @@ Pull Requests Welcome
 
 ## License
 
-GPL v2
+GNU GPL v2

@@ -50,7 +50,7 @@ Please submit issues [here](https://github.com/AdamInTheOculus/GeorgianRPG/issue
 | Eddie Tupy |  Developer |
 | Josh Boulet|  Developer |
 | Megan Doyle | Developer |
-| [Thomas Herr](https://github.com/tlherr) | |
+| [Thomas Herr](https://github.com/tlherr) | Developer |
 
 Pull Requests Welcome
 

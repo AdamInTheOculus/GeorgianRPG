@@ -82,6 +82,12 @@ public class Loops {
         // to print out each element in the array with a for loop and a while loop. If you
         // want to take it further to reinforce your skills, use a do while and an enhanced loop!
         
+        /* Print out the numbers in the array */
+        
+        /* Add all numbers using an enhanced for loop and calculate the average */
+        
+        /* Sort the array from smallest to largest */
+        
         /**
          *  PROGRAMMING CHALLENGES -- Create a separate file with your name and
          *  save to the Tutorial directory! Don't forget to add, commit, and 
@@ -91,11 +97,5 @@ public class Loops {
          *  2) git commit -m "Commit message -- make this accurate to what you're doing"
          *  3) git push
          */
-        
-        /* Print out the numbers in the array */
-        
-        /* Add all numbers using an enhanced for loop and calculate the average */
-        
-        /* Sort the array from smallest to largest */
     }
 }

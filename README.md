@@ -18,6 +18,12 @@ Project Meeting Details can be found [here](https://github.com/AdamInTheOculus/G
 
 `git clone https://github.com/AdamInTheOculus/GeorgianRPG.git`
 
+## Updating
+
+Already cloned our git repo? Change your current working directory to 
+`GeorgianRPG` and type `git pull`. Now all the latest files will be 
+added to your clone!
+
 ## Issues
 
 Please submit issues [here](https://github.com/AdamInTheOculus/GeorgianRPG/issues)

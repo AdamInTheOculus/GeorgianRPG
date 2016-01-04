@@ -8,7 +8,7 @@ public class Weapon {
     /* Notice how these are all private? This is intentional. */
     private String name;
     private float damage;
-    private final int maxDurability;
+    private int maxDurability;
     private int curDurability; 
 
     public Weapon(String name, float damage, int maxDurability) {
@@ -38,8 +38,16 @@ public class Weapon {
         return curDurability;
     }
     
+    public void setCurDurability(int curDur) {
+        this.curDurability = curDur;
+    }
+    
     public int getMaxDurability() {
         return maxDurability;
+    }
+    
+    public void setMaxDurability(int maxDur) {
+        this.maxDurability = maxDur;
     }
     
     @Override

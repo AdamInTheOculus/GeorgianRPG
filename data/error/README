@@ -1,0 +1,6 @@
+-- Error --
+
+This directory will contain any error dumps received throughout the 
+entire project. An error system should be in place where hopefully any 
+error or bug will be reported and stored in a .txt file in this 
+directory. Names of each file should be the time and date of occurence.

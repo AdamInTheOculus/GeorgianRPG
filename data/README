@@ -1,0 +1,31 @@
+This directory will contain various types of data to be used in our 
+text-based game. Below is a list of the subdirectories and their 
+purposes. If any sub-directories are added, they should be updated in 
+this README so future students/participants will understand its purpose.
+
+And if you don't like the formatting, you are free to edit it!
+
+**********
+** json **
+**********
+-- This directory will contain all JSON files used in our game. A JSON 
+file can contain various types of data such as player stats, quest 
+dialogues, weapon descriptions, map locations, etc.
+
+***********
+** error **
+***********
+-- This directory will contain any error dumps (text written by the 
+programmer in the event that an error occurs). Each dump should contain 
+the following:
+
+1) Time of failure
+2) Operating System information
+3) General description of error
+
+***********
+** story **
+***********
+-- This directory will most likely contain text files of the game plot. 
+It will also contain side-quest plots, perhaps even a more 
+descriptive format for each quest. Only time will tell!

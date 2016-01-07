@@ -1,0 +1,7 @@
+-- Entities --
+
+This directory will contain all source code for entities used in the 
+game. An entity can be anything from a weapon, an NPC, a potential 
+check-point if a player is killed mid-game, etc. Many things can be 
+represented as an entity and this will be revealed further along in our 
+development.

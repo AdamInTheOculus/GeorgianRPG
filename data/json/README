@@ -1,0 +1,6 @@
+-- JSON --
+
+This directory contains all JSON files. These files will be used for 
+in-game items, stats, stories, quest rewards, current file-saves, etc. 
+Many different game components will be stored in a JSON file. Because of 
+this format, we will have to use/create a JSON file I/O handler.

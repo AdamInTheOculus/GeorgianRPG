@@ -16,7 +16,12 @@ Project Meeting Details can be found [here](https://github.com/AdamInTheOculus/G
 
 ## Installation
 
-`git clone https://github.com/AdamInTheOculus/GeorgianRPG.git`
+**1)** Fork the origin. Click [here](https://github.com/YOUR_GIT_PAGE/GeorgianRPG) for origin page. On the top right of the page, click the *Fork* button.
+
+**2)** Change into your desired work directory. 
+
+**3)** Clone your forked repo: 
+`git clone https://github.com/YOUR_GIT_PAGE/GeorgianRPG`
 
 ## Updating
 

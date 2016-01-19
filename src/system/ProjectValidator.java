@@ -36,6 +36,7 @@ import java.io.File;
 
 public class ProjectValidator {
 
+   // Checks if specified directories exist
    public static boolean validate() {
       return (hasEntities() && hasStates() && hasData() && 
             hasJSON() && hasError() && hasAssets()
@@ -45,83 +46,89 @@ public class ProjectValidator {
 /* --------------------
     Directories in src 
    -------------------- */
-   private boolean hasEntities() {
+   private static boolean hasEntities() {
       if(OS.isWindows()) {
-         File entities = new File("..\\Entities");
+         File entities = new File("src\\entities");
+         return(entities.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File entities = new File("../Entities");
+         File entities = new File("src/entities");
+         return(entities.isDirectory());
       }
-      return(entities.isDirectory());
    }
 
-   private boolean hasStates() {
+   private static boolean hasStates() {
       if(OS.isWindows()) {
-         File states = new File("..\\States");
+         File states = new File("src\\states");
+         return(states.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File states = new File("../States");
-      }
-      return(states.isDirectory());
+         File states = new File("src/states");
+         return(states.isDirectory());
+      }  
    }
 
 
 /* ---------------------
     Directories in data 
    --------------------- */
-   private boolean hasData() {
+   private static boolean hasData() {
       if(OS.isWindows()) {
-         File data = new File("..\\..\\data");
+         File data = new File("data");
+         return(data.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File data = new File("../../data");
+         File data = new File("data");
+         return(data.isDirectory());
       }
-      return(data.isDirectory());
    }
 
-   private boolean hasJSON() {
+   private static boolean hasJSON() {
       if(OS.isWindows()) {
-         File json = new File("..\\..\\data\\json");
+         File json = new File("data\\json");
+         return(json.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File json = new File("../../data/json");
+         File json = new File("data/json");
+         return(json.isDirectory());
       }
-      return(json.isDirectory());
    }
 
-   private boolean hasError() {
+   private static boolean hasError() {
       if(OS.isWindows()) {
-         File error = new File("..\\..\\data\\error");
+         File error = new File("data\\error");
+         return(error.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File error = new File("../../data/error");
+         File error = new File("data/error");
+         return(error.isDirectory());
       }
-      return(error.isDirectory());
    }
 
 /* -----------------------
     Directories in assets 
    ----------------------- */
-   private boolean hasAssets() {
+   private static boolean hasAssets() {
       if(OS.isWindows()) {
-         File assets = new File("..\\..\\assets");
+         File assets = new File("assets");
+         return(assets.isDirectory());
       }
 
       // Unix/*nix OS
       else {
-         File assets = new File("../../assets");
+         File assets = new File("assets");
+         return(assets.isDirectory());
       }
-      return(assets.isDirectory());
    }
 }
 

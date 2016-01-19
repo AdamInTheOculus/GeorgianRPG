@@ -9,15 +9,14 @@ package system;
 
 public class OS {
 
-	private String name = null;
+	private static String name = null;
 
 	private static String getOSName() {
-		// If no name is assigned, get our OS name
-		if(name == null) {
-			System.out.println("Assigning OS name. Should only appear once");
-			name = System.getProperty("os.name");
-		}
-		return name;
+            // If no name is assigned, get our OS name
+            if(name == null) {
+                name = System.getProperty("os.name");
+            }
+            return name;
 	}
 
 	public static boolean isUnix() {
